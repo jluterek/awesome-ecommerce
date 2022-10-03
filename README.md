@@ -1,10 +1,9 @@
 # Awesome Composable Commerce
 
-A curated list of awesome software, libraries, training, and content focussed on composable commerce.
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <!--<img align="right" src="https://github.com/logo.png" alt="awesome-composable-commerce" title="awesome-composable-commerce" /></a>-->
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 <!--
 [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=blue)](https://gophers.slack.com/messages/awesome)
 
@@ -13,6 +12,7 @@ We use the Complete Composable community slack for instant communication, follow
 <!--
 <a href="https://www.producthunt.com/posts/[POST]?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-composable-commerce" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=[POSTID]&theme=dark" alt="awesome-composable-commerce - A curated list of awesome software, libraries, training, and content focussed on composable commerce. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>-->
 
+A curated list of awesome software, libraries, training, and content focussed on composable commerce.
 
 **Contributing:**
 
