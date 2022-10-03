@@ -28,7 +28,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 - [Additional Software](#additional-software)
   - [Affiliate](#affiliate)
   - [Analytics](#analytics)
-  - [Authentication](#Authentication)
+  - [Authentication](#authentication)
   - [Cart and Checkout](#cart-and-checkout)
   - [Cloud Hosting](#cloud-hosting)
   - [Communication](#communication)
@@ -43,10 +43,10 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
   - [Subscriptions](#subscriptions)
   - [Support](#support)
   - [Tax](#tax)
-- [Blogs](#Blogs)
+- [Blogs](#blogs)
 - [Articles](#Articles)
 - [Videos](#Videos)
-- [Training](#Training)
+- [Training](#training)
 
 ---
 
