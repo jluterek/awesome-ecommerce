@@ -22,7 +22,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 
 ## Contents
 
-- [Communities](#Communities)
+- [Communities](#communities)
 - [Core Software](#Software)
   - [Commerce Platform](#commerce)
   - [Content Management System (CMS)](#cms)
