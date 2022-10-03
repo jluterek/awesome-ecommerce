@@ -23,7 +23,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 ## Contents
 
 - [Communities](#communities)
-- [Core Software](#software)
+- [Core Software](#core-software)
   - [Commerce Platform](#commerce)
   - [Content Management System (CMS)](#cms)
   - [Front-end](#front-end)
@@ -67,7 +67,7 @@ _Communities that discuss Composable Commerce._
 
 
 
-## Software
+## Core Software
 
 _Core software that enables Composable Commerce._
 
