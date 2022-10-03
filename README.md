@@ -72,7 +72,7 @@ _Core software that enables Composable Commerce._
 - [Saleor](https://github.com/saleor/saleor) - An open-source API-Commerce platform built with Python, Django, and React.
 - [commercetools](https://commercetools.com) - The company that coined "Headless Commerce" with APIs geared towards enterprise clients.
 
-### Content Management System (CMS)
+### Content Management System
 
 - [Prismic](https://prismic.io) - Make your website editable for the whole team.
 - [ButterCMS](https://buttercms.com) - Easy to use marketing dashboard. Fast content API for modern apps.
