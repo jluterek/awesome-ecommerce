@@ -36,7 +36,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
   - [Order Management System](#order-management-system)
   - [Product Information Management](#product-information-management)
   - [Promotions](#promotions)
-  - [Payments](#payments)
   - [Reviews](#reviews)
   - [Shipping and Fulfillment](#shipping-and-fulfillment)
   - [Subscriptions](#subscriptions)
