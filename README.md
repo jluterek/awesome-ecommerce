@@ -33,7 +33,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
   - [Cloud Hosting](#cloud-hosting)
   - [Communication](#communication)
   - [Digital Asset Management](#digital-asset-management)
-  - [Fraud Prevention](#fraud-prevention)
   - [Order Management System](#order-management-system)
   - [Product Information Management](#product-information-management)
   - [Promotions](#promotions)
@@ -47,6 +46,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 - [Articles](#articles)
 - [Videos](#videos)
 - [Training](#training)
+- [Companies](#companies)
 
 ---
 
