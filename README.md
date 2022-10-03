@@ -23,20 +23,19 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 - [Core Software](#core-software)
   - [Commerce Platform](#commerce-platform)
   - [Content Management System](#content-management-system)
-  - [Front-end](#front-end)
+  - [Frontend](#frontend)
   - [Search](#search)
 - [Additional Software](#additional-software)
-  - [Address Verification](#address-verification)
   - [Affiliate](#affiliate)
   - [Analytics](#analytics)
-  - [Authentication and Customer Profile](#auth)
-  - [Cart and Checkout](#cart)
-  - [Cloud Hosting](#hosting)
+  - [Authentication](#Authentication)
+  - [Cart and Checkout](#cart-and-checkout)
+  - [Cloud Hosting](#cloud-hosting)
   - [Communication](#communication)
-  - [Digital Asset Manaagement (DAM)](#dam)
+  - [Digital Asset Manaagement](#digital-asset-management)
   - [Fraud Prevention](#fraud-prevention)
-  - [Order Management System (OMS)](#oms)
-  - [Product Information Management (PIM)](#pim)
+  - [Order Management System](#order-management-system)
+  - [Product Information Management](#product-information-management)
   - [Promotions](#promotions)
   - [Payments](#payments)
   - [Reviews](#reviews)
@@ -84,7 +83,7 @@ _Core software that enables Composable Commerce._
 - [LexasCMS](https://www.lexascms.com) - An e-commerce focused headless CMS with built-in support for personalisation, scheduling, and visual previews.
 - [Storyblok](https://www.storyblok.com) - Storyblok helps your team to tell your story and manage content for every use-case.
 
-### <a name="front-end"></a>Front-end
+### Frontend
 
 - [Vue Storefront](https://vuestorefront.io/elastic-path) - Headless PWA frontend built in VueJS and fully open source.
 - [Front-Commerce](https://www.front-commerce.com) - PWA frontend for headless eCommerce.
@@ -92,7 +91,7 @@ _Core software that enables Composable Commerce._
 - [Next Commerce](https://nextjs.org/commerce) - Commerce front-end written in React/NextJS and maintained by Vercel.
 - [D2C Starter Kit](https://github.com/elasticpath/d2c-starter-kit) - Open-Source front-end starter kit written in ReactJS.
 
-### <a name="search"></a>Search
+### Search
 
 - [Algolia](https://www.algolia.com) - Leading search provider, offering cutting-edge UX for web, apps & ecommerce.
 - [Constructor.io](https://constructor.io) - Enterprise Product Discovery, Tailor-Made for eCommerce.
@@ -102,33 +101,33 @@ _Core software that enables Composable Commerce._
 ---
 
 
-## <a name="additional-software"></a>Additional Software
+## Additional Software
 
 _Additional software leveraged in the final solution._
 
-### <a name="affiliate"></a>Affiliate
+### Affiliate
 
 - [Commission Junction](https://www.cj.com/) - Thrive in the world's largest and most established affiliate marketing ecosystem.
 - [LinkConnector](https://www.linkconnector.com/) - LinkConnector is a leading Affiliate Marketing Network whose nimble infrastructure provides the technology and gateway for online merchants to grow brands.
 
-### <a name="analytics"></a>Analytics
+### Analytics
 
 - [Google Analytics](https://analytics.google.com) - Leading free analytics solution.
 - [Fathom Analytics](https://usefathom.com) - Your website analytics should be simple, fast and privacy-focused.
 
-### <a name="auth"></a>Authentication and Customer Profile
+### Authentication
 
 - [Auth0](https://auth0.com) - Auth0 is an easy to implement, adaptable authentication and authorization platform.
 - [Magic Link](https://magic.link) - One SDK for passwordless, WebAuthn, and social login - fully customizable.
 
-### <a name="cart"></a>Cart and Checkout
+### Cart and Checkout
 
 - [Bolt](https://www.bolt.com) - One Click Checkout.
 - [CartQL](https://cartql.com) - GraphQL shopping cart and checkout API built to work with your existing inventory.
 - [Foxy](https://foxy.io) - Foxy's hosted cart & payment page allow you to sell anything, using your existing website or platform.
 - [Snipcart](https://snipcart.com) - Add a shopping cart to any website.
 
-### <a name="hosting"></a>Cloud Hosting
+### Cloud Hosting
 
 - [AWS](https://aws.amazon.com) - Whether you're looking for compute power, database storage, content delivery, AWS has the services to help you build sophisticated applications.
 - [Azure](https://azure.microsoft.com) - Build what you want, where you want.
@@ -139,59 +138,59 @@ _Additional software leveraged in the final solution._
 - [Netlify](https://www.netlify.com) - An intuitive git-based workflow. A powerful serverless platform for Jamstack.
 - [Vercel](https://vercel.com/home) - Develop. Preview. Ship.
 
-### <a name="communication"></a>Communication
+### Communication
 
 - [Mailgun](https://www.mailgun.com) - The Email Service for Developers.
 - [Postmark](https://postmarkapp.com) - Reliable delivery for your application emails.
 - [SendGrid](https://sendgrid.com) - Send Shipping Notifications, Email Notifications, Password resets, Promotional Emails, and more with confidence.
 - [Twilio](http://twilio.com) - Engage customers on any channel, any time.
 
-### <a name="dam"></a>Digital Asset Manaagement (DAM)
+### Digital Asset Manaagement
 
 - [Cloudinary](https://cloudinary.com/) - Unleash the full potential of your digital media.
 
-### <a name="oms"></a>Order Management System (OMS)
+### Order Management System
 
 - [Orderhive](https://www.orderhive.com) - Automate every step of your business.
 
-### <a name="pim"></a>Product Information Management (PIM)
+### Product Information Management
 
 - [akeneo](https://www.akeneo.com) - Create superior product experiences.
 - [Product Experience Manager (PXM)](https://www.elasticpath.com/products/ep-pxm) - Merchandise Every Unique Product Experience, Without Custom Dev Work.
 - [Salsify](https://www.salsify.com) - Commerce Experience Management for the Digital Shelf.
 
-### <a name="promotions"></a>Promotions
+### Promotions
 
 - [CartHook](https://carthook.com) - Add post-purchase upsells and grow your average order value.
 - [Lightrail](https://www.lightrail.com) - Promos, gift cards, loyalty. One API.
 - [Talon.One](https://www.talon.one) - Run flexible promotion marketing campaigns that perform, without wasting development time and marketing money.
 - [Voucherify](https://www.voucherify.io) - Build personalized coupon, discount, referral, and loyalty campaigns faster.
 
-### <a name="reviews"></a>Reviews
+### Reviews
 
 - [REVIEWS.io](https://reviews.io) - Read & Write Genuine Reviews.
 - [Trustpilot](https://www.trustpilot.com) - Behind every review is an experience that matters.
 
-### <a name="shipping-and-fulfillment"></a>Shipping and Fulfillment
+### Shipping and Fulfillment
 
 - [easypost](https://www.easypost.com) - Create labels in a few clicks and save up to 74% or use our modern Shipping API with tracking, address verification, and customs for USPS, FedEx, UPS, DHL, plus many more.
 - [ShipEngine](https://www.shipengine.com) - Discover the new standard in multi-carrier shipping and logistics.
 - [Shippo](https://goshippo.com) - The absolute best rates from top carriers and everything you need for professional shipping in one place.
 - [ShipStation](https://www.shipstation.com) - The Multichannel Order & Delivery Management Platform With 100+ Integrations.
 
-### <a name="subscriptions"></a>Subscriptions
+### Subscriptions
 
 - [ReCharge](https://rechargepayments.com) - Powering Subscriptions For The Fastest Growing Brands.
 - [Recurly](https://recurly.com) - The subscription management platform delivering unrivaled results to smart brands worldwide.
 - [SubscribePro](https://subscribepro.com) - Enabling autoship, auto-replenishment, subscription boxes, and recurring billing.
 
-### <a name="support"></a>Support
+### Support
 
 - [HelpScout](https://www.helpscout.com) - An all-in-one customer service platform that helps you balance everything your customers need to be happy.
 - [Intercom](https://www.intercom.com) - The Business Messenger you and your customers will love.
 - [Zendesk](https://www.zendesk.com) - Zendesk makes customer service better. We build software to meet customer needs, set your team up for success, and keep your business in sync.
 
-### <a name="tax"></a>Tax
+### Tax
 
 - [Avalara](https://www.avalara.com) - Simplify tax compliance with automation.
 - [TaxCloud](https://taxcloud.com) - Worry-Free Sales Tax.
