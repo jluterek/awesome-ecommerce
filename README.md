@@ -45,7 +45,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
   - [Tax](#tax)
 - [Blogs](#blogs)
 - [Articles](#articles)
-- [Videos](#Videos)
+- [Videos](#videos)
 - [Training](#training)
 
 ---
