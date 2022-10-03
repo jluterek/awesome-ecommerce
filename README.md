@@ -22,7 +22,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 
 ## Contents
 
-- [Contents](#Contents)
 - [Communities](#Communities)
 - [Core Software](#Software)
   - [Commerce Platform](#commerce)
@@ -96,7 +95,7 @@ _Core software that enables Composable Commerce._
 - [Vue Storefront](https://vuestorefront.io/elastic-path) - Headless PWA frontend built in VueJS and fully open source.
 - [Front-Commerce](https://www.front-commerce.com) - PWA frontend for headless eCommerce.
 - [Nacelle](https://nacelle.com) - Your webstore with sub-second page load speeds, mobile-first functionality and a superior shopping experience.
-- [Next Commerce](https://nextjs.org/commerce) - Commerce front-end written in React/NextJS and maintained by Vercel
+- [Next Commerce](https://nextjs.org/commerce) - Commerce front-end written in React/NextJS and maintained by Vercel.
 - [D2C Starter Kit](https://github.com/elasticpath/d2c-starter-kit) - Open-Source front-end starter kit written in ReactJS.
 
 ### <a name="search"></a>Search
@@ -116,7 +115,7 @@ _Additional software leveraged in the final solution._
 
 ### <a name="affiliate"></a>Affiliate
 
-- [Commission Junction](https://www.cj.com/) - Thrive in the world's largest and most established affiliate marketing ecosystem
+- [Commission Junction](https://www.cj.com/) - Thrive in the world's largest and most established affiliate marketing ecosystem.
 - [LinkConnector](https://www.linkconnector.com/) - LinkConnector is a leading Affiliate Marketing Network whose nimble infrastructure provides the technology and gateway for online merchants to grow brands.
 
 ### <a name="analytics"></a>Analytics
@@ -196,7 +195,7 @@ _Additional software leveraged in the final solution._
 ### <a name="support"></a>Support
 
 - [HelpScout](https://www.helpscout.com) - An all-in-one customer service platform that helps you balance everything your customers need to be happy.
-- [Intercom](https://www.intercom.com) - The Business Messenger you and your customers will love
+- [Intercom](https://www.intercom.com) - The Business Messenger you and your customers will love.
 - [Zendesk](https://www.zendesk.com) - Zendesk makes customer service better. We build software to meet customer needs, set your team up for success, and keep your business in sync.
 
 ### <a name="tax"></a>Tax
