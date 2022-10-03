@@ -65,7 +65,7 @@ _Communities that discuss Composable Commerce._
 
 _Core software that enables Composable Commerce._
 
-### <a name="commerce-platforms"></a>Commerce Platforms
+### <a name="commerce-platforms"></a>Commerce Platform
 
 - [Elastic Path Commerce Cloud](https://www.elasticpath.com/products/elastic-path-commerce-cloud) - API-First, Microservices, and Cloud-Native eCommerce platform, leading the Composable Commerce movement.
 - [MedusaJS](https://github.com/medusajs) - Open-Source JavaScript API-Commerce software.
