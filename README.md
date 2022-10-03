@@ -14,12 +14,12 @@ We use the Complete Composable community slack for instant communication, follow
 
 A curated list of awesome software, libraries, training, and content focussed on composable commerce.
 
-** Contributing **
+**Contributing**
 Please take a quick gander at the [contribution guidelines](https://github.com/CompleteComposable/awesome-composable-commerce/blob/master/CONTRIBUTING.md) first. Thank you to all of the [contributors](https://github.com/CompleteComposable/awesome-composable-commerce/graphs/contributors)!
 
 > _If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!_
 
-## Table of Contents
+## Content
 
 - [Communities](#communities)
 - [Core Software](#core-software)
