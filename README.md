@@ -22,7 +22,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 - [Communities](#communities)
 - [Core Software](#core-software)
   - [Commerce Platform](#commerce-platform)
-  - [Content Management System (CMS)](#cms)
+  - [Content Management System](#content-management-system)
   - [Front-end](#front-end)
   - [Search](#search)
 - [Additional Software](#additional-software)
@@ -72,7 +72,7 @@ _Core software that enables Composable Commerce._
 - [Saleor](https://github.com/saleor/saleor) - An open-source API-Commerce platform built with Python, Django, and React.
 - [commercetools](https://commercetools.com) - The company that coined "Headless Commerce" with APIs geared towards enterprise clients.
 
-### <a name="cms"></a>Content Management System (CMS)
+### Content Management System (CMS)
 
 - [Prismic](https://prismic.io) - Make your website editable for the whole team.
 - [ButterCMS](https://buttercms.com) - Easy to use marketing dashboard. Fast content API for modern apps.
