@@ -14,7 +14,7 @@ We use the Complete Composable community slack for instant communication, follow
 
 A curated list of awesome software, libraries, training, and content focussed on composable commerce.
 
-**Contributing:**
+#### Contributing:
 
 Please take a quick gander at the [contribution guidelines](https://github.com/CompleteComposable/awesome-composable-commerce/blob/master/CONTRIBUTING.md) first. Thank you to all of the [contributors](https://github.com/CompleteComposable/awesome-composable-commerce/graphs/contributors)!
 
@@ -22,37 +22,36 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 
 ## Contents
 
-  - [Contents](#Contents)
-  - [Communities](#Communities)
-  - [Core Software](#Software)
-    - [Commerce Platform](#commerce)
-    - [Content Management System (CMS)](#cms)
-    - [Front-end](#front-end)
-    - [Search](#search)
-  - [Additional Software](#addl-software)
-    - [Address Verification](#address-verification)
-    - [Affiliate](#affiliate)
-    - [Analytics](#analytics)
-    - [Authentication and Customer Profile](#auth)
-    - [Cart and Checkout](#cart)
-    - [Cloud Hosting](#hosting)
-    - [Communication](#communication)
-    - [Digital Asset Manaagement (DAM)](#dam)
-    - [Fraud Prevention](#fraud-prevention)
-    - [Order Management System (OMS)](#oms)
-    - [Product Information Management (PIM)](#pim)
-    - [Promotions](#promotions)
-    - [Payments](#payments)
-    - [Reviews](#reviews)
-    - [Shipping and Fulfillment](#shipping-and-fulfillment)
-    - [Subscriptions](#subscriptions)
-    - [Support](#support)
-    - [Tax](#tax)
-  - [Blogs](#Blogs)
-  - [Articles](#Articles)
-  - [Videos](#Videos)
-  - [Training](#Training)
-  - [Companies](#Companies)
+- [Contents](#Contents)
+- [Communities](#Communities)
+- [Core Software](#Software)
+  - [Commerce Platform](#commerce)
+  - [Content Management System (CMS)](#cms)
+  - [Front-end](#front-end)
+  - [Search](#search)
+- [Additional Software](#addl-software)
+  - [Address Verification](#address-verification)
+  - [Affiliate](#affiliate)
+  - [Analytics](#analytics)
+  - [Authentication and Customer Profile](#auth)
+  - [Cart and Checkout](#cart)
+  - [Cloud Hosting](#hosting)
+  - [Communication](#communication)
+  - [Digital Asset Manaagement (DAM)](#dam)
+  - [Fraud Prevention](#fraud-prevention)
+  - [Order Management System (OMS)](#oms)
+  - [Product Information Management (PIM)](#pim)
+  - [Promotions](#promotions)
+  - [Payments](#payments)
+  - [Reviews](#reviews)
+  - [Shipping and Fulfillment](#shipping-and-fulfillment)
+  - [Subscriptions](#subscriptions)
+  - [Support](#support)
+  - [Tax](#tax)
+- [Blogs](#Blogs)
+- [Articles](#Articles)
+- [Videos](#Videos)
+- [Training](#Training)
 
 ---
 **[⬆ back to top](#contents)**
@@ -62,7 +61,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 
 _Communities that discuss Composable Commerce._
 
-- [Reddit](https://www.reddit.com/r/composable_commerce/) - Subreddit on COmposable Commerce
+- [Reddit](https://www.reddit.com/r/composable_commerce/) - Subreddit on Composable Commerce.
 
 ---
 **[⬆ back to top](#contents)**
@@ -76,8 +75,8 @@ _Core software that enables Composable Commerce._
 ### <a name="commerce"></a>Commerce Platforms
 
 - [Elastic Path Commerce Cloud](https://www.elasticpath.com/products/elastic-path-commerce-cloud) - API-First, Microservices, and Cloud-Native eCommerce platform, leading the Composable Commerce movement.
-- [MedusaJS](https://github.com/medusajs) - Open-Source JavaScript API-Commerce software
-- [Saleor](https://github.com/saleor/saleor) - An open-source API-Commerce platform built with Python, Django, and React. 
+- [MedusaJS](https://github.com/medusajs) - Open-Source JavaScript API-Commerce software.
+- [Saleor](https://github.com/saleor/saleor) - An open-source API-Commerce platform built with Python, Django, and React.
 - [commercetools](https://commercetools.com) - The company that coined "Headless Commerce" with APIs geared towards enterprise clients.
 
 ### <a name="cms"></a>Content Management System (CMS)
@@ -98,7 +97,7 @@ _Core software that enables Composable Commerce._
 - [Front-Commerce](https://www.front-commerce.com) - PWA frontend for headless eCommerce.
 - [Nacelle](https://nacelle.com) - Your webstore with sub-second page load speeds, mobile-first functionality and a superior shopping experience.
 - [Next Commerce](https://nextjs.org/commerce) - Commerce front-end written in React/NextJS and maintained by Vercel
-- [D2C Starter Kit](https://github.com/elasticpath/d2c-starter-kit) - Open-Source front-end starter kit written in ReactJS
+- [D2C Starter Kit](https://github.com/elasticpath/d2c-starter-kit) - Open-Source front-end starter kit written in ReactJS.
 
 ### <a name="search"></a>Search
 
@@ -118,7 +117,7 @@ _Additional software leveraged in the final solution._
 ### <a name="affiliate"></a>Affiliate
 
 - [Commission Junction](https://www.cj.com/) - Thrive in the world's largest and most established affiliate marketing ecosystem
-- [LinkConnector](https://www.linkconnector.com/) - LinkConnector is a leading Affiliate Marketing Network whose nimble infrastructure provides the technology and gateway for online merchants to grow brands
+- [LinkConnector](https://www.linkconnector.com/) - LinkConnector is a leading Affiliate Marketing Network whose nimble infrastructure provides the technology and gateway for online merchants to grow brands.
 
 ### <a name="analytics"></a>Analytics
 
@@ -134,7 +133,7 @@ _Additional software leveraged in the final solution._
 
 - [Bolt](https://www.bolt.com) - One Click Checkout.
 - [CartQL](https://cartql.com) - GraphQL shopping cart and checkout API built to work with your existing inventory.
-- [Foxy](https://foxy.io) - Foxy’s hosted cart & payment page allow you to sell anything, using your existing website or platform.
+- [Foxy](https://foxy.io) - Foxy's hosted cart & payment page allow you to sell anything, using your existing website or platform.
 - [Snipcart](https://snipcart.com) - Add a shopping cart to any website.
 
 ### <a name="hosting"></a>Cloud Hosting
@@ -157,7 +156,7 @@ _Additional software leveraged in the final solution._
 
 ### <a name="dam"></a>Digital Asset Manaagement (DAM)
 
-- [Twilio](http://twilio.com) - Engage customers on any channel, any time.
+- [Cloudinary](https://cloudinary.com/) - Unleash the full potential of your digital media.
 
 ### <a name="oms"></a>Order Management System (OMS)
 
@@ -165,8 +164,8 @@ _Additional software leveraged in the final solution._
 
 ### <a name="pim"></a>Product Information Management (PIM)
 
-- [akeneo](https://www.akeneo.com) - Create superior product experiences
-- [Product Experience Manager (PXM)](https://www.elasticpath.com/products/ep-pxm) - Merchandise Every Unique Product Experience, Without Custom Dev Work
+- [akeneo](https://www.akeneo.com) - Create superior product experiences.
+- [Product Experience Manager (PXM)](https://www.elasticpath.com/products/ep-pxm) - Merchandise Every Unique Product Experience, Without Custom Dev Work.
 - [Salsify](https://www.salsify.com) - Commerce Experience Management for the Digital Shelf.
 
 ### <a name="promotions"></a>Promotions
@@ -196,15 +195,15 @@ _Additional software leveraged in the final solution._
 
 ### <a name="support"></a>Support
 
-- [HelpScout](https://www.helpscout.com) &mdash; An all-in-one customer service platform that helps you balance everything your customers need to be happy.
-- [Intercom](https://www.intercom.com) &mdash; The Business Messenger you and your customers will love
-- [Zendesk](https://www.zendesk.com) &mdash; Zendesk makes customer service better. We build software to meet customer needs, set your team up for success, and keep your business in sync.
+- [HelpScout](https://www.helpscout.com) - An all-in-one customer service platform that helps you balance everything your customers need to be happy.
+- [Intercom](https://www.intercom.com) - The Business Messenger you and your customers will love
+- [Zendesk](https://www.zendesk.com) - Zendesk makes customer service better. We build software to meet customer needs, set your team up for success, and keep your business in sync.
 
 ### <a name="tax"></a>Tax
 
-- [Avalara](https://www.avalara.com) &mdash; Simplify tax compliance with automation.
-- [TaxCloud](https://taxcloud.com) &mdash; Worry-Free Sales Tax.
-- [TaxJar](https://www.taxjar.com) &mdash; Sales Tax Compliance Made Effortless.
+- [Avalara](https://www.avalara.com) - Simplify tax compliance with automation.
+- [TaxCloud](https://taxcloud.com) - Worry-Free Sales Tax.
+- [TaxJar](https://www.taxjar.com) - Sales Tax Compliance Made Effortless.
 
 ---
 **[⬆ back to top](#contents)**
@@ -213,8 +212,8 @@ _Additional software leveraged in the final solution._
 
 _Blogs that discuss Composable Commerce and are worth following._
 
-- [Elastic Path](https://www.elasticpath.com/blog) - Content from the pioneers of Composable Commerce
-- [Composable Commerce](https://medium.com/composable-commerce) - Composable Commerce on Medium
+- [Elastic Path](https://www.elasticpath.com/blog) - Content from the pioneers of Composable Commerce.
+- [Composable Commerce](https://medium.com/composable-commerce) - Composable Commerce on Medium.
 
 ---
 **[⬆ back to top](#contents)**
@@ -223,7 +222,7 @@ _Blogs that discuss Composable Commerce and are worth following._
 
 _Specific content pieces on Composable Commerce._
 
-- [What is Composable Commerce](https://www.elasticpath.com/composable-commerce) - Introduction on what composable commerce is
+- [What is Composable Commerce](https://www.elasticpath.com/composable-commerce) - Introduction on what composable commerce is.
 
 ---
 **[⬆ back to top](#contents)**
@@ -232,8 +231,8 @@ _Specific content pieces on Composable Commerce._
 
 _Specific videos or channels on Composable Commerce._
 
-- [Going Headless with John](https://www.youtube.com/channel/UC4GFy1ci2aWAqjSZx2Xl1qA) - Content from Amplience CTO
-- [What is Composable Commerce](https://www.youtube.com/watch?v=ChemHx85d3E) - Concept Overview
+- [Going Headless with John](https://www.youtube.com/channel/UC4GFy1ci2aWAqjSZx2Xl1qA) - Content from Amplience CTO.
+- [What is Composable Commerce](https://www.youtube.com/watch?v=ChemHx85d3E) - Concept Overview.
 
 ---
 **[⬆ back to top](#contents)**
