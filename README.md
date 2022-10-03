@@ -32,7 +32,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
   - [Cart and Checkout](#cart-and-checkout)
   - [Cloud Hosting](#cloud-hosting)
   - [Communication](#communication)
-  - [Digital Asset Manaagement](#digital-asset-management)
+  - [Digital Asset Management](#digital-asset-management)
   - [Fraud Prevention](#fraud-prevention)
   - [Order Management System](#order-management-system)
   - [Product Information Management](#product-information-management)
@@ -145,7 +145,7 @@ _Additional software leveraged in the final solution._
 - [SendGrid](https://sendgrid.com) - Send Shipping Notifications, Email Notifications, Password resets, Promotional Emails, and more with confidence.
 - [Twilio](http://twilio.com) - Engage customers on any channel, any time.
 
-### Digital Asset Manaagement
+### Digital Asset Management
 
 - [Cloudinary](https://cloudinary.com/) - Unleash the full potential of your digital media.
 
