@@ -21,11 +21,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 
 - [Communities](#communities)
 - [Core Software](#core-software)
-  - [Commerce Platform](#commerce)
+  - [Commerce Platform](#commerce-platforms)
   - [Content Management System (CMS)](#cms)
   - [Front-end](#front-end)
   - [Search](#search)
-- [Additional Software](#addl-software)
+- [Additional Software](#additional-software)
   - [Address Verification](#address-verification)
   - [Affiliate](#affiliate)
   - [Analytics](#analytics)
@@ -50,7 +50,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 - [Training](#Training)
 
 ---
-**[⬆ back to top](#contents)**
 
 
 ## Communities
@@ -60,15 +59,13 @@ _Communities that discuss Composable Commerce._
 - [Reddit](https://www.reddit.com/r/composable_commerce/) - Subreddit on Composable Commerce.
 
 ---
-**[⬆ back to top](#contents)**
-
 
 
 ## Core Software
 
 _Core software that enables Composable Commerce._
 
-### <a name="commerce"></a>Commerce Platforms
+### <a name="commerce-platforms"></a>Commerce Platforms
 
 - [Elastic Path Commerce Cloud](https://www.elasticpath.com/products/elastic-path-commerce-cloud) - API-First, Microservices, and Cloud-Native eCommerce platform, leading the Composable Commerce movement.
 - [MedusaJS](https://github.com/medusajs) - Open-Source JavaScript API-Commerce software.
@@ -103,10 +100,9 @@ _Core software that enables Composable Commerce._
 - [Elastic](https://www.elastic.co/elasticsearch) - Elasticsearch is a distributed, RESTful search and analytics engine.
 
 ---
-**[⬆ back to top](#contents)**
 
 
-## <a name="addl-software"></a>Additional Software
+## <a name="additional-software"></a>Additional Software
 
 _Additional software leveraged in the final solution._
 
@@ -202,7 +198,6 @@ _Additional software leveraged in the final solution._
 - [TaxJar](https://www.taxjar.com) - Sales Tax Compliance Made Effortless.
 
 ---
-**[⬆ back to top](#contents)**
 
 ## Blogs
 
@@ -212,7 +207,6 @@ _Blogs that discuss Composable Commerce and are worth following._
 - [Composable Commerce](https://medium.com/composable-commerce) - Composable Commerce on Medium.
 
 ---
-**[⬆ back to top](#contents)**
 
 ## Articles
 
@@ -221,7 +215,6 @@ _Specific content pieces on Composable Commerce._
 - [What is Composable Commerce](https://www.elasticpath.com/composable-commerce) - Introduction on what composable commerce is.
 
 ---
-**[⬆ back to top](#contents)**
 
 ## Videos
 
@@ -231,7 +224,6 @@ _Specific videos or channels on Composable Commerce._
 - [What is Composable Commerce](https://www.youtube.com/watch?v=ChemHx85d3E) - Concept Overview.
 
 ---
-**[⬆ back to top](#contents)**
 
 ## Training
 
@@ -239,7 +231,6 @@ _Training courses that teach Composable Commerce._
 
 
 ---
-**[⬆ back to top](#contents)**
 
 ## Companies
 
@@ -248,7 +239,8 @@ _Companies focussed on Composable Commerce._
 - [MyPlanet / Composable](https://composable.com/) - Composable accelerator for Elastic Path and commercetools.
 
 ---
-**[⬆ back to top](#contents)**
+
+
 
 
 
