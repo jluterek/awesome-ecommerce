@@ -1,6 +1,4 @@
-# Awesome Composable Commerce
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Composable Commerce [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <!--<img align="right" src="https://github.com/logo.png" alt="awesome-composable-commerce" title="awesome-composable-commerce" /></a>-->
 
