@@ -10,7 +10,7 @@ We use the Complete Composable community slack for instant communication, follow
 <!--
 <a href="https://www.producthunt.com/posts/[POST]?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-composable-commerce" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=[POSTID]&theme=dark" alt="awesome-composable-commerce - A curated list of awesome software, libraries, training, and content focussed on ecommerce. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>-->
 
-A curated list of awesome software, libraries, training, and content focussed on ecommerce.
+Developer focused ecommerce.
 
 **Contributing**
 Please take a quick gander at the [contribution guidelines](https://github.com/jluterek/awesome-ecommerce/blob/main/contributing.md) first. Thank you to all of the [contributors](https://github.com/jluterek/awesome-ecommerce/graphs/contributors)!
