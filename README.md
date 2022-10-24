@@ -8,12 +8,12 @@
 We use the Complete Composable community slack for instant communication, follow the [form here to join](https://invite.slack.completecomposable.com/).-->
 
 <!--
-<a href="https://www.producthunt.com/posts/[POST]?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-composable-commerce" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=[POSTID]&theme=dark" alt="awesome-composable-commerce - A curated list of awesome software, libraries, training, and content focussed on composable commerce. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>-->
+<a href="https://www.producthunt.com/posts/[POST]?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-composable-commerce" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=[POSTID]&theme=dark" alt="awesome-composable-commerce - A curated list of awesome software, libraries, training, and content focussed on ecommerce. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>-->
 
 A curated list of awesome software, libraries, training, and content focussed on ecommerce.
 
 **Contributing**
-Please take a quick gander at the [contribution guidelines](https://github.com/CompleteComposable/awesome-composable-commerce/blob/master/CONTRIBUTING.md) first. Thank you to all of the [contributors](https://github.com/CompleteComposable/awesome-composable-commerce/graphs/contributors)!
+Please take a quick gander at the [contribution guidelines](https://github.com/jluterek/awesome-ecommerce/blob/main/contributing.md) first. Thank you to all of the [contributors](https://github.com/jluterek/awesome-ecommerce/graphs/contributors)!
 
 > _If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!_
 
@@ -52,7 +52,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/C
 
 ## Communities
 
-_Communities that discuss Composable Commerce._
+_Communities that discuss ecommerce._
 
 - [Reddit](https://www.reddit.com/r/composable_commerce/) - Subreddit on Composable Commerce.
 
@@ -61,7 +61,7 @@ _Communities that discuss Composable Commerce._
 
 ## Core Software
 
-_Core software that enables Composable Commerce._
+_Core software that enables ecommerce._
 
 ### Commerce Platform
 
@@ -199,7 +199,7 @@ _Additional software leveraged in the final solution._
 
 ## Blogs
 
-_Blogs that discuss Composable Commerce and are worth following._
+_Blogs that discuss ecommerce and are worth following._
 
 - [Elastic Path](https://www.elasticpath.com/blog) - Content from the pioneers of Composable Commerce.
 - [Composable Commerce](https://medium.com/composable-commerce) - Composable Commerce on Medium.
@@ -208,7 +208,7 @@ _Blogs that discuss Composable Commerce and are worth following._
 
 ## Articles
 
-_Specific content pieces on Composable Commerce._
+_Specific content pieces on ecommerce._
 
 - [What is Composable Commerce](https://www.elasticpath.com/composable-commerce) - Introduction on what composable commerce is.
 
@@ -216,7 +216,7 @@ _Specific content pieces on Composable Commerce._
 
 ## Videos
 
-_Specific videos or channels on Composable Commerce._
+_Specific videos or channels on ecommerce._
 
 - [Going Headless with John](https://www.youtube.com/channel/UC4GFy1ci2aWAqjSZx2Xl1qA) - Content from Amplience CTO.
 - [What is Composable Commerce](https://www.youtube.com/watch?v=ChemHx85d3E) - Concept Overview.
@@ -225,14 +225,14 @@ _Specific videos or channels on Composable Commerce._
 
 ## Training
 
-_Training courses that teach Composable Commerce._
+_Training courses that teach ecommerce._
 
 
 ---
 
 ## Companies
 
-_Companies focussed on Composable Commerce._
+_Companies focussed on ecommerce._
 
 - [MyPlanet / Composable](https://composable.com/) - Composable accelerator for Elastic Path and commercetools.
 
