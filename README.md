@@ -42,10 +42,8 @@ Please take a quick gander at the [contribution guidelines](https://github.com/j
   - [Support](#support)
   - [Tax](#tax)
 - [Blogs](#blogs)
-- [Articles](#articles)
 - [Videos](#videos)
 - [Training](#training)
-- [Companies](#companies)
 
 ---
 
@@ -206,19 +204,12 @@ _Blogs that discuss ecommerce and are worth following._
 
 ---
 
-## Articles
-
-_Specific content pieces on ecommerce._
-
-- [What is Composable Commerce](https://www.elasticpath.com/composable-commerce) - Introduction on what composable commerce is.
-
----
-
 ## Videos
 
 _Specific videos or channels on ecommerce._
 
 - [Going Headless with John](https://www.youtube.com/channel/UC4GFy1ci2aWAqjSZx2Xl1qA) - Content from Amplience CTO.
+- [What is Composable Commerce](https://www.youtube.com/watch?v=ChemHx85d3E) - Concept Overview.
 - [What is Composable Commerce](https://www.youtube.com/watch?v=ChemHx85d3E) - Concept Overview.
 
 ---
@@ -227,14 +218,11 @@ _Specific videos or channels on ecommerce._
 
 _Training courses that teach ecommerce._
 
-
----
-
-## Companies
-
-_Companies focussed on ecommerce._
-
-- [MyPlanet / Composable](https://composable.com/) - Composable accelerator for Elastic Path and commercetools.
+- [Google Digital Marketing & E-commerce Professional Certificate](https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce) - Google Digital E-Commerce Course
+- [Get a business online](https://learndigital.withgoogle.com/digitalgarage/course/business-online) - Google Digital Garage Course
+- [eCommerce Fundamentals](https://www.linkedin.com/learning/ecommerce-fundamentals-2) - LinkedIn Course for eCommerce Fundamentals
+- [eCommerce Fundamentals](https://www.linkedin.com/learning/ecommerce-fundamentals-2) - LinkedIn Course for eCommerce Fundamentals
+- [Elastic Path Certifications](https://www.credly.com/organizations/elastic-path/badges) - Certifications on Composable Commerce
 
 ---
 
