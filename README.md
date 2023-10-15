@@ -63,7 +63,6 @@ _Core software that enables ecommerce._
 
 ### Commerce Platform
 
-- [Elastic Path Commerce Cloud](https://www.elasticpath.com/products/elastic-path-commerce-cloud) - API-First, Microservices, and Cloud-Native eCommerce platform, leading the Composable Commerce movement.
 - [MedusaJS](https://github.com/medusajs) - Open-Source JavaScript API-Commerce software.
 - [Saleor](https://github.com/saleor/saleor) - An open-source API-Commerce platform built with Python, Django, and React.
 - [commercetools](https://commercetools.com) - The company that coined "Headless Commerce" with APIs geared towards enterprise clients.
@@ -86,7 +85,6 @@ _Core software that enables ecommerce._
 - [Front-Commerce](https://www.front-commerce.com) - PWA frontend for headless eCommerce.
 - [Nacelle](https://nacelle.com) - Your webstore with sub-second page load speeds, mobile-first functionality and a superior shopping experience.
 - [Next Commerce](https://nextjs.org/commerce) - Commerce front-end written in React/NextJS and maintained by Vercel.
-- [D2C Starter Kit](https://github.com/elasticpath/d2c-starter-kit) - Open-Source front-end starter kit written in ReactJS.
 
 ### Search
 
@@ -195,24 +193,6 @@ _Additional software leveraged in the final solution._
 
 ---
 
-## Blogs
-
-_Blogs that discuss ecommerce and are worth following._
-
-- [Elastic Path](https://www.elasticpath.com/blog) - Content from the pioneers of Composable Commerce.
-- [Composable Commerce](https://medium.com/composable-commerce) - Composable Commerce on Medium.
-
----
-
-## Videos
-
-_Specific videos or channels on ecommerce._
-
-- [Going Headless with John](https://www.youtube.com/channel/UC4GFy1ci2aWAqjSZx2Xl1qA) - Content from Amplience CTO.
-- [What is Composable Commerce](https://www.youtube.com/watch?v=ChemHx85d3E) - Concept Overview.
-
----
-
 ## Training
 
 _Training courses that teach ecommerce._
@@ -220,7 +200,6 @@ _Training courses that teach ecommerce._
 - [Google Digital Marketing & E-commerce Professional Certificate](https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce) - Google Digital E-Commerce Course.
 - [Get a business online](https://learndigital.withgoogle.com/digitalgarage/course/business-online) - Google Digital Garage Course.
 - [eCommerce Fundamentals](https://www.linkedin.com/learning/ecommerce-fundamentals-2) - LinkedIn Course for eCommerce Fundamentals.
-- [Elastic Path Certifications](https://www.credly.com/organizations/elastic-path/badges) - Certifications on Composable Commerce.
 
 ---
 
