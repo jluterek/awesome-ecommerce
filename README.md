@@ -113,6 +113,8 @@ _Additional software leveraged in the final solution._
 
 ### AI
 
+- [AdaptOrDie](https://adaptordie.io/blog/agentic-commerce-wave) - Insights on the rise of agentic commerce and AI-powered autonomous shopping experiences.
+- [AdaptOrDie](https://adaptordie.io/blog/your-next-customer-isnt-human) - Analysis of how AI agents are becoming the new customers in commerce ecosystems.
 - [Anthropic](https://www.anthropic.com) - AI safety company building Claude, powering conversational commerce and intelligent assistants.
 - [Google Vertex AI](https://cloud.google.com/vertex-ai) - Unified ML platform for building and deploying AI-powered commerce experiences.
 - [Nosto](https://www.nosto.com) - AI-powered commerce experience platform for personalization and merchandising.
