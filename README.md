@@ -119,6 +119,7 @@ _Additional software leveraged in the final solution._
 - [OpenAI](https://openai.com) - AI research company providing GPT models for commerce automation and customer engagement.
 - [RivalHound](https://www.rivalhound.com) - AI ranking analysis and sentiment tracking.
 - [Rokt](https://www.rokt.com) - AI-powered ecommerce technology for transaction moments and relevant offers.
+- [ShopSavvy Agents](https://shopsavvy.com/agents) - MCP server giving any AI assistant access to real-time product pricing, price history, and shopping tools across 70,000+ retailers.
 
 ### Affiliate
 
@@ -129,6 +130,8 @@ _Additional software leveraged in the final solution._
 
 - [Fathom Analytics](https://usefathom.com) - Your website analytics should be simple, fast and privacy-focused.
 - [Google Analytics](https://analytics.google.com) - Leading free analytics solution.
+- [ShopSavvy Business](https://shopsavvy.com/business) - Automated competitor price monitoring and pricing intelligence across 70,000+ retailers.
+- [ShopSavvy Data API](https://shopsavvy.com/data) - REST API for product data, real-time pricing, and price history. SDKs in 10 languages.
 
 ### Authentication
 
