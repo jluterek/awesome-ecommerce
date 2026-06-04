@@ -39,6 +39,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/j
   - [Product Information Management](#product-information-management)
   - [Promotions](#promotions)
   - [Reviews](#reviews)
+  - [Seller Operations](#seller-operations)
   - [Shipping and Fulfillment](#shipping-and-fulfillment)
   - [Subscriptions](#subscriptions)
   - [Support](#support)
@@ -190,6 +191,10 @@ _Additional software leveraged in the final solution._
 
 - [REVIEWS.io](https://reviews.io) - Read and Write Genuine Reviews.
 - [Trustpilot](https://www.trustpilot.com) - Behind every review is an experience that matters.
+
+### Seller Operations
+
+- [AMZ Seller Tools](https://www.amzsellerstools.com/en) - Free browser-based FBA fee, profit, storage, removal, target-cost, and seller utility tools for Amazon sellers.
 
 ### Shipping and Fulfillment
 
