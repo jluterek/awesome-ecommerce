@@ -119,6 +119,7 @@ _Additional software leveraged in the final solution._
 - [OpenAI](https://openai.com) - AI research company providing GPT models for commerce automation and customer engagement.
 - [RivalHound](https://www.rivalhound.com) - AI ranking analysis and sentiment tracking.
 - [Rokt](https://www.rokt.com) - AI-powered ecommerce technology for transaction moments and relevant offers.
+- [Superhighway](https://superhighway.walls.sh/guides/retail-research-agent) - AI agent for researching retail categories, e-commerce channel dynamics, digital shelf position, and DTC brand intelligence using live web search.
 
 ### Affiliate
 
