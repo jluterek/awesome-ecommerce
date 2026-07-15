@@ -129,6 +129,7 @@ _Additional software leveraged in the final solution._
 
 - [Fathom Analytics](https://usefathom.com) - Your website analytics should be simple, fast and privacy-focused.
 - [Google Analytics](https://analytics.google.com) - Leading free analytics solution.
+- [Tillkiln](https://tillkiln.com) - Self-serve Shopify store leak scanner for checkout traps, dead collection URLs, and discount stacking.
 
 ### Authentication
 
