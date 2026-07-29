@@ -168,6 +168,7 @@ _Additional software leveraged in the final solution._
 ### Order Management System
 
 - [Fluent Commerce](https://fluentcommerce.com) - MACH Alliance inaugural member and Forrester Leader in distributed order management.
+- [Stocky Swap](https://stackarchitect.xyz/) - Inventory automation and multi-location sync tool for Shopify stores.
 - [Pipe17](https://pipe17.com) - AI-native order operations platform for multi-channel commerce.
 
 ### Payments
