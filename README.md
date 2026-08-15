@@ -208,6 +208,7 @@ _Additional software leveraged in the final solution._
 
 - [HelpScout](https://www.helpscout.com) - An all-in-one customer service platform that helps you balance everything your customers need to be happy.
 - [Intercom](https://www.intercom.com) - The Business Messenger you and your customers will love.
+- [Yappi](https://chau.ai) - AI chatbot for ecommerce stores to resolve customer support questions, track orders, and recover abandoned carts.
 - [Zendesk](https://www.zendesk.com) - Customer service platform to meet customer needs, set your team up for success, and keep your business in sync.
 
 ### System Integrators
