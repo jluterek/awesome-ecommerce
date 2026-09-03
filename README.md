@@ -115,6 +115,7 @@ _Additional software leveraged in the final solution._
 
 - [Anthropic](https://www.anthropic.com) - AI safety company building Claude, powering conversational commerce and intelligent assistants.
 - [Google Vertex AI](https://cloud.google.com/vertex-ai) - Unified ML platform for building and deploying AI-powered commerce experiences.
+- [Lunalisa](https://luna-lisa.art) - AI creative workspace for generating product photos, marketing posters, and white-background listing images from text prompts or reference photos.
 - [Nosto](https://www.nosto.com) - AI-powered commerce experience platform for personalization and merchandising.
 - [OpenAI](https://openai.com) - AI research company providing GPT models for commerce automation and customer engagement.
 - [RivalHound](https://www.rivalhound.com) - AI ranking analysis and sentiment tracking.
