@@ -91,6 +91,7 @@ _Core software that enables ecommerce._
 - [Sanity](https://www.sanity.io) - The ultimate content platform that helps teams dream big and deliver quickly.
 - [Storyblok](https://www.storyblok.com) - Visual CMS that helps your team tell your story and manage content for every use-case.
 - [Strapi](https://strapi.io) - Design APIs fast, manage content easily.
+- [OneEntry](https://oneentry.cloud) – Headless CMS and ecommerce platform with a unified data model, flexible attribute system, and SDK for building web and mobile commerce applications.
 
 ### Frontend
 
