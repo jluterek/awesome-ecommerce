@@ -74,6 +74,7 @@ _Core software that enables ecommerce._
 - [Saleor](https://github.com/saleor/saleor) - An open-source API-commerce platform built with Python, Django, and React.
 - [SCAYLE](https://scayle.com) - Enterprise commerce platform built for high-growth brands and retailers.
 - [Shopware](https://www.shopware.com) - Open-source composable commerce platform for B2B and B2C.
+- [Unchained Engine](https://github.com/unchainedshop/unchained) - Open-source headless GraphQL commerce framework for Node.js.
 
 ### Content Management System
 
