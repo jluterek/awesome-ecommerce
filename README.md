@@ -36,6 +36,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/j
   - [Digital Asset Management](#digital-asset-management)
   - [Order Management System](#order-management-system)
   - [Payments](#payments)
+  - [Pricing](#pricing)
   - [Product Information Management](#product-information-management)
   - [Promotions](#promotions)
   - [Reviews](#reviews)
@@ -178,6 +179,13 @@ _Additional software leveraged in the final solution._
 - [Adyen](https://www.adyen.com) - MACH Alliance member providing unified payments platform for global commerce.
 - [Checkout.com](https://www.checkout.com) - Enterprise payments platform with global coverage and flexible APIs.
 - [Stripe](https://stripe.com) - MACH Alliance member and developer-first payments infrastructure for internet commerce.
+
+### Pricing
+
+- [Apify](https://apify.com/apify/e-commerce-scraping-tool) - Pay-per-result product data extraction across retailers, returning price, stock, rating, and images as structured fields.
+- [Competera](https://competera.ai) - AI-driven retail price optimization that predicts demand and optimizes prices for enterprises.
+- [Price2Spy](https://www.price2spy.com) - Price monitoring, comparison, and repricing for retailers keeping track of competitors.
+- [Prisync](https://www.prisync.com) - Competitor price tracking, monitoring, and dynamic pricing for ecommerce stores.
 
 ### Product Information Management
 
