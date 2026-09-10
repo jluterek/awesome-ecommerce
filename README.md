@@ -186,6 +186,7 @@ _Additional software leveraged in the final solution._
 
 ### Promotions
 
+- [SaveBlitz deals-site builder](https://github.com/lirayman2026-sys/saveblitz-deals-site-builder) - Dependency-free Python generator that turns a promotional product feed into a paginated static deals site with a real 404 page, sitemap and robots.txt (the generator behind saveblitz.com).
 - [Talon.One](https://www.talon.one) - First promotions platform to join the MACH Alliance, enabling flexible promotion marketing campaigns that perform.
 - [Voucherify](https://www.voucherify.io) - MACH-built promotion engine with Composable Loyalty Accelerator for personalized campaigns.
 
