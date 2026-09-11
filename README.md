@@ -143,6 +143,7 @@ _Additional software leveraged in the final solution._
 - [Bolt](https://www.bolt.com) - One Click Checkout.
 - [CartQL](https://cartql.com) - GraphQL shopping cart and checkout API built to work with your existing inventory.
 - [Foxy](https://foxy.io) - Foxy's hosted cart and payment page allow you to sell anything, using your existing website or platform.
+- [Posnic](https://www.posnic.com/) ([source](https://github.com/Posnic/POS)) - Offline-first open source POS and billing software for retail shops and restaurants, with self-hosted online/offline workflows.
 - [Snipcart](https://snipcart.com) - Add a shopping cart to any website.
 
 ### Cloud Hosting
