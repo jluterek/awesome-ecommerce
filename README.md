@@ -71,6 +71,7 @@ _Core software that enables ecommerce._
 - [commercetools](https://commercetools.com) - MACH founding member and the company that coined "Headless Commerce" with APIs geared towards enterprise clients.
 - [Kibo](https://kibocommerce.com) - MACH Alliance member providing unified commerce platform with OMS and ecommerce capabilities.
 - [MedusaJS](https://github.com/medusajs) - Open-source JavaScript API-commerce software.
+- [Mercur](https://github.com/mercurjs/mercur) - Open-source multi-vendor marketplace platform built on MedusaJS
 - [Saleor](https://github.com/saleor/saleor) - An open-source API-commerce platform built with Python, Django, and React.
 - [SCAYLE](https://scayle.com) - Enterprise commerce platform built for high-growth brands and retailers.
 - [Shopware](https://www.shopware.com) - Open-source composable commerce platform for B2B and B2C.
