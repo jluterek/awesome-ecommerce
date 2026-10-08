@@ -115,6 +115,7 @@ _Additional software leveraged in the final solution._
 
 ### AI
 
+- [AdsTurbo](https://adsturbo.ai) - AI video ad generator for online stores: turns a product link or a reference ad into short video ads with AI actors and lip-synced translation.
 - [Anthropic](https://www.anthropic.com) - AI safety company building Claude, powering conversational commerce and intelligent assistants.
 - [Ecommerce ChatGPT Prompts](https://www.xpay.sh/prompts/) - Free, copy-and-run ChatGPT prompt library for online stores covering product descriptions, ads, email, and SEO.
 - [Google Vertex AI](https://cloud.google.com/vertex-ai) - Unified ML platform for building and deploying AI-powered commerce experiences.
