@@ -132,6 +132,7 @@ _Additional software leveraged in the final solution._
 
 - [Fathom Analytics](https://usefathom.com) - Your website analytics should be simple, fast and privacy-focused.
 - [Google Analytics](https://analytics.google.com) - Leading free analytics solution.
+- [OneLence](https://onelence.com) - Marketing attribution for Shopify, WooCommerce and Stripe stores across ads, search, AI assistants and affiliate partners, with a next step for each source.
 
 ### Authentication
 
