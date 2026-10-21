@@ -120,6 +120,7 @@ _Additional software leveraged in the final solution._
 - [Google Vertex AI](https://cloud.google.com/vertex-ai) - Unified ML platform for building and deploying AI-powered commerce experiences.
 - [Nosto](https://www.nosto.com) - AI-powered commerce experience platform for personalization and merchandising.
 - [OpenAI](https://openai.com) - AI research company providing GPT models for commerce automation and customer engagement.
+- [pitchboom.io](https://pitchboom.io) - AI motion-design studio that turns a product page URL into voiced video ads for TikTok, Instagram Reels, YouTube Shorts and Meta, in 9:16, 1:1, 4:5 and 16:9.
 - [RivalHound](https://www.rivalhound.com) - AI ranking analysis and sentiment tracking.
 - [Rokt](https://www.rokt.com) - AI-powered ecommerce technology for transaction moments and relevant offers.
 
