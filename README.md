@@ -171,6 +171,7 @@ _Additional software leveraged in the final solution._
 ### Order Management System
 
 - [Fluent Commerce](https://fluentcommerce.com) - MACH Alliance inaugural member and Forrester Leader in distributed order management.
+- [KolayXport](https://kolayxport.com) - Order, listing and export panel for Etsy, Amazon, eBay and Trendyol sellers with bulk Etsy listing editing and FedEx and UPS labels.
 - [Pipe17](https://pipe17.com) - AI-native order operations platform for multi-channel commerce.
 
 ### Payments
