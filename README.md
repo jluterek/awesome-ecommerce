@@ -105,6 +105,7 @@ _Core software that enables ecommerce._
 - [Bloomreach](https://www.bloomreach.com/en/products/discovery) - AI-powered site search and merchandising solution with Loomi AI.
 - [Constructor.io](https://constructor.io) - MACH Alliance member providing enterprise product discovery tailor-made for ecommerce.
 - [Coveo](https://www.coveo.com) - MACH Alliance ISV delivering AI-powered search and recommendations.
+- [Lynkig](https://lynkig.dk/?utm_source=github-awesome-ecommerce&utm_medium=directory) - Site search and product recommendations for Nordic-language webshops (compound words, typos, synonyms). WooCommerce plugin or JS snippet; free plan.
 
 ---
 
