@@ -122,6 +122,7 @@ _Additional software leveraged in the final solution._
 - [OpenAI](https://openai.com) - AI research company providing GPT models for commerce automation and customer engagement.
 - [RivalHound](https://www.rivalhound.com) - AI ranking analysis and sentiment tracking.
 - [Rokt](https://www.rokt.com) - AI-powered ecommerce technology for transaction moments and relevant offers.
+- [SellerForge](https://www.sellerforge.ai) - AI Amazon account management for sellers and agencies, with listing audits, PPC analysis and FBA reimbursement checks from live Seller Central data.
 
 ### Affiliate
 
