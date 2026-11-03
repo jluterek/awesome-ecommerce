@@ -116,6 +116,7 @@ _Additional software leveraged in the final solution._
 ### AI
 
 - [Anthropic](https://www.anthropic.com) - AI safety company building Claude, powering conversational commerce and intelligent assistants.
+- [Awesome Etsy MCP](https://github.com/GeminiGeorge22/awesome-etsy-mcp) - Curated list of MCP servers that let AI assistants work with Etsy and other marketplace data for seller research.
 - [Ecommerce ChatGPT Prompts](https://www.xpay.sh/prompts/) - Free, copy-and-run ChatGPT prompt library for online stores covering product descriptions, ads, email, and SEO.
 - [Google Vertex AI](https://cloud.google.com/vertex-ai) - Unified ML platform for building and deploying AI-powered commerce experiences.
 - [Nosto](https://www.nosto.com) - AI-powered commerce experience platform for personalization and merchandising.
