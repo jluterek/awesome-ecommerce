@@ -122,6 +122,7 @@ _Additional software leveraged in the final solution._
 - [OpenAI](https://openai.com) - AI research company providing GPT models for commerce automation and customer engagement.
 - [RivalHound](https://www.rivalhound.com) - AI ranking analysis and sentiment tracking.
 - [Rokt](https://www.rokt.com) - AI-powered ecommerce technology for transaction moments and relevant offers.
+- [Z Product AI](https://zproductai.com/) - Browser-based AI tools for product photos on white backgrounds and on models, an Amazon main image checker and listing text generators.
 
 ### Affiliate
 
