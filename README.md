@@ -159,6 +159,7 @@ _Additional software leveraged in the final solution._
 - [Braze](https://www.braze.com) - MACH Alliance ISV providing cross-channel customer engagement platform.
 - [Klaviyo](https://www.klaviyo.com) - B2C CRM and marketing automation platform purpose-built for ecommerce email and SMS.
 - [Mailgun](https://www.mailgun.com) - The Email Service for Developers.
+- [Nexie](https://nexie.ai) - AI-native email service provider for ecommerce stores.
 - [Postmark](https://postmarkapp.com) - Reliable delivery for your application emails.
 - [SendGrid](https://sendgrid.com) - Send Shipping Notifications, Email Notifications, Password resets, Promotional Emails, and more with confidence.
 - [Twilio](http://twilio.com) - Engage customers on any channel, any time.
