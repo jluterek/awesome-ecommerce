@@ -206,6 +206,7 @@ _Additional software leveraged in the final solution._
 - [ReCharge](https://rechargepayments.com) - Powering Subscriptions For The Fastest Growing Brands.
 - [Recurly](https://recurly.com) - The subscription management platform delivering unrivaled results to smart brands worldwide.
 - [SubscribePro](https://subscribepro.com) - Enabling autoship, auto-replenishment, subscription boxes, and recurring billing.
+- [OpenLup](https://github.com/openlup/openlup) - Open-source subscription commerce for physical goods: renewals, dunning, payment recovery and customer self-service.
 
 ### Support
 
