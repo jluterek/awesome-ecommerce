@@ -119,6 +119,7 @@ _Additional software leveraged in the final solution._
 - [Ecommerce ChatGPT Prompts](https://www.xpay.sh/prompts/) - Free, copy-and-run ChatGPT prompt library for online stores covering product descriptions, ads, email, and SEO.
 - [Google Vertex AI](https://cloud.google.com/vertex-ai) - Unified ML platform for building and deploying AI-powered commerce experiences.
 - [Nosto](https://www.nosto.com) - AI-powered commerce experience platform for personalization and merchandising.
+- [Nexscope](https://www.nexscope.ai/?co-from=jluterek-awesome-ecommerce) - Ecommerce product research API and hosted MCP for marketplace search, keywords, competitors, and AI listing media.
 - [OpenAI](https://openai.com) - AI research company providing GPT models for commerce automation and customer engagement.
 - [RivalHound](https://www.rivalhound.com) - AI ranking analysis and sentiment tracking.
 - [Rokt](https://www.rokt.com) - AI-powered ecommerce technology for transaction moments and relevant offers.
