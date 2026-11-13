@@ -122,6 +122,7 @@ _Additional software leveraged in the final solution._
 - [OpenAI](https://openai.com) - AI research company providing GPT models for commerce automation and customer engagement.
 - [RivalHound](https://www.rivalhound.com) - AI ranking analysis and sentiment tracking.
 - [Rokt](https://www.rokt.com) - AI-powered ecommerce technology for transaction moments and relevant offers.
+- [Shopify Theme Audit Skill](https://auditskill.tanujrajput.com) - Free, open-source Claude Code skill that audits Shopify themes for performance, accessibility, SEO and AI-search readiness.
 
 ### Affiliate
 
