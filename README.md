@@ -197,6 +197,7 @@ _Additional software leveraged in the final solution._
 ### Shipping and Fulfillment
 
 - [EasyPost](https://www.easypost.com) - Create labels in a few clicks and save up to 74% or use our modern Shipping API with tracking, address verification, and customs for USPS, FedEx, UPS, DHL, plus many more.
+- [PackProof](https://hadesloc.github.io/pdfua-partner-desk/packproof/) - Free browser pre-checker for EU PPWR Regulation 2025/40 packaging compliance and Annex VII checklists.
 - [ShipEngine](https://www.shipengine.com) - Discover the new standard in multi-carrier shipping and logistics.
 - [Shippo](https://goshippo.com) - The absolute best rates from top carriers and everything you need for professional shipping in one place.
 - [ShipStation](https://www.shipstation.com) - The Multichannel Order and Delivery Management Platform With 100+ Integrations.
