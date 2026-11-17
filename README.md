@@ -177,6 +177,7 @@ _Additional software leveraged in the final solution._
 
 - [Adyen](https://www.adyen.com) - MACH Alliance member providing unified payments platform for global commerce.
 - [Checkout.com](https://www.checkout.com) - Enterprise payments platform with global coverage and flexible APIs.
+- [Plaxswap](https://plaxswap.com/merchants) - Crypto payment gateway for accepting Bitcoin, USDT and other coins through hosted checkout, payment links, an API and plugins.
 - [Stripe](https://stripe.com) - MACH Alliance member and developer-first payments infrastructure for internet commerce.
 
 ### Product Information Management
