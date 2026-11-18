@@ -69,6 +69,7 @@ _Core software that enables ecommerce._
 
 - [BigCommerce](https://www.bigcommerce.com) - MACH Alliance member with Catalyst open-source storefront and flexible APIs.
 - [commercetools](https://commercetools.com) - MACH founding member and the company that coined "Headless Commerce" with APIs geared towards enterprise clients.
+- [GoCommerce](https://github.com/misiki-in/gocommerce) - Open-source composable commerce engine for Go, with an embedded admin panel and a built-in MCP server.
 - [Kibo](https://kibocommerce.com) - MACH Alliance member providing unified commerce platform with OMS and ecommerce capabilities.
 - [MedusaJS](https://github.com/medusajs) - Open-source JavaScript API-commerce software.
 - [Saleor](https://github.com/saleor/saleor) - An open-source API-commerce platform built with Python, Django, and React.
