@@ -98,6 +98,7 @@ _Core software that enables ecommerce._
 - [Aries UI](https://aries-ui.com) - Composable commerce frontend accelerator with pre-built components for rapid storefront development.
 - [Front-Commerce](https://www.front-commerce.com) - PWA frontend for headless eCommerce.
 - [Next Commerce](https://nextjs.org/commerce) - Commerce front-end written in React and Next.js, maintained by Vercel with composable commerce integrations.
+- [Svelte Commerce](https://github.com/misiki-in/svelte-commerce) - Headless SvelteKit storefront with connectors for 26 commerce backends, including Medusa, Shopify, Saleor, Vendure and WooCommerce.
 
 ### Search
 
