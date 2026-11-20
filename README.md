@@ -127,6 +127,7 @@ _Additional software leveraged in the final solution._
 
 - [Commission Junction](https://www.cj.com/) - Thrive in the world's largest and most established affiliate marketing ecosystem.
 - [LinkConnector](https://www.linkconnector.com/) - Leading Affiliate Marketing Network whose nimble infrastructure provides the technology and gateway for online merchants to grow brands.
+- [FreshStore](https://www.freshstore.com/) - Affiliate site builder that lists Amazon, eBay and network products with your affiliate links, with AI-written pages and hosting included.
 
 ### Analytics
 
