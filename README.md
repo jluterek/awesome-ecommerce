@@ -238,7 +238,6 @@ _Blogs covering ecommerce and composable commerce._
 - [commercetools Blog](https://commercetools.com/blog) - Insights on MACH architecture and composable commerce from the company that coined headless commerce.
 - [Composable.com](https://composable.com/insights) - Industry insights and news on composable commerce.
 - [James Luterek](https://jamesluterek.com) - Thoughts on ecommerce technology and digital transformation.
-- [MACH Alliance](https://machalliance.org/insights) - Resources and research on MACH principles and composable technology.
 
 ---
 
@@ -261,3 +260,4 @@ _Training courses that teach ecommerce._
 - [eCommerce Fundamentals](https://www.linkedin.com/learning/ecommerce-fundamentals-2) - LinkedIn Course for eCommerce Fundamentals.
 - [Get a business online](https://learndigital.withgoogle.com/digitalgarage/course/business-online) - Google Digital Garage Course.
 - [Google Digital Marketing & E-commerce Professional Certificate](https://www.coursera.org/professional-certificates/google-digital-marketing-ecommerce) - Google Digital E-Commerce Course.
+- [Swavent Guides](https://swavent.com/en/guides) - Free Shopify, ecommerce, SEO and web development guides.
